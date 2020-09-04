@@ -23,6 +23,8 @@
 
 [1]: https://github.com/ekoniuh/additional_5 "example" 
 [2]: https://github.com/ekoniuh/sorter "example"
+[3]: https://github.com/ekoniuh/advanced-zeros "example"
+
 ```javascript
 const isPrime = num => {
     for(let i = 2, s = Math.sqrt(num); i <= s; i++)
