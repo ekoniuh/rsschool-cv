@@ -2,15 +2,14 @@
 ***
 ## Yauheni Koniukh
 ***
-
-![Foto person](https://pp.userapi.com/c849532/v849532196/1e223/1ehDE7j48FI.jpg "Foto person")
+<img src="https://pp.userapi.com/c849532/v849532196/1e223/1ehDE7j48FI.jpg" width="300" height="200" />
 
 ### Contact
 
 * +375447834615
 * ***Mail***
     * <konuih13@gmail.com>
-    
+    * <ekoniuh@gmail.com>
 * **social network**: [VK](https://vk.com/id26350926)
 * [GitHub](https://github.com/ekoniuh)
 ### Skills
